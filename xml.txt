@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<root>
+  <device>
+    <deviceType>urn:MakerMusings:device:controllee:1</deviceType>
+    <friendlyName>alpha</friendlyName>
+    <manufacturer>Belkin International Inc.</manufacturer>
+    <modelName>Emulated Socket</modelName>
+    <modelNumber>3.1415</modelNumber>
+    <UDN>uuid:Socket-1_0-206616c7068616</UDN>
+  </device>
+</root>
