@@ -1,6 +1,3 @@
-# AlphaNodus Chris Cui
-For Lumastream Demo Python version
-
 # echo
 For controlling local devices with the Amazon Echo.
 
